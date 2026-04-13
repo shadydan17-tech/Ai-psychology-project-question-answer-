@@ -23,7 +23,7 @@ The core "brain" is a Multi-Layer Perceptron (MLP) built in PyTorch with the fol
 * **Optimization:** Adam Optimizer & MSE Loss
 
 ## 📁 Repository Structure
-* `Psychology_AI.ipynb`: The primary notebook for training and execution.
+* `AI psychology.ipynb`: The primary notebook for training and execution.
 * `psychology_model.pth`: The saved state dictionary of the trained model.
 * `combined_dataset (1).json`: The psychology Q&A dataset used for training.
 
